@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hhipp-999
-- 👀 I’m interested in incomplete multiview clustering
+- 👀 I’m interested in incomplete multiview clustering and multi-view clustering
 - 📫 How to reach me：617566862@qq.com
 
 <!---
