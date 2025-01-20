@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hhipp-999
+- 👋 Hi, I’m Xiaoxing Guo
 - 👀 I’m interested in incomplete multiview clustering and multi-view clustering
 - 📫 How to reach me：617566862@qq.com
 
